@@ -1,0 +1,103 @@
+I want to create a professional, mobile-responsive website to showcase my products to customers.
+
+Core Functionality
+
+When users open the website, products should be displayed immediately on the homepage.
+
+Products can be organized into categories and support search.
+
+Each product must have its own page or section that includes:
+
+A video or images
+
+A list of product features displayed under the media
+
+Languages & Translation
+
+The website must support Arabic and English.
+
+I will add products and their features only in Arabic from the admin panel.
+
+When users switch the language to English, the website should automatically translate all product content using direct/automatic translation.
+
+Save the user’s language preference and auto-detect language on first visit.
+
+Banners
+
+Reserve visible areas on the website for promotional banners.
+
+From the admin panel, I should be able to:
+
+Upload banner images
+
+Assign a clickable link to each banner
+
+Clicking a banner should redirect users to the assigned link.
+
+Left Sidebar (Vertical Section)
+
+Create a vertical section on the left side of the website that includes:
+
+Payment methods with images (uploadable from admin panel)
+
+Telegram channels with images (uploadable from admin panel)
+
+At the bottom of the Telegram section:
+
+Add a Telegram icon
+
+I will set my Telegram username in the admin panel
+
+Clicking the icon should open my Telegram account directly
+
+Admin Panel (No Coding Required)
+
+The admin panel must allow me to:
+
+Add, edit, and delete products
+
+Upload product videos and images
+
+Add product features (in Arabic only)
+
+Upload banners and set their links
+
+Manage product categories
+
+Upload payment method images
+
+Upload Telegram channel images
+
+Set my Telegram username
+
+Manage all website content easily
+
+Admin panel must be:
+
+Secure (login with email and password)
+
+Mobile-friendly
+
+SEO, Performance & Analytics
+
+SEO-friendly pages (titles, meta descriptions).
+
+Product links should display image, title, and description when shared on social apps.
+
+Optimize images and videos for fast loading (lazy loading).
+
+Support adding analytics tools (e.g., Google Analytics).
+
+Additional Pages & Trust
+
+Simple About Us page
+
+Contact section with Telegram and WhatsApp buttons
+
+Technical Notes
+
+Fully responsive for mobile, tablet, and desktop.
+
+Clean, modern UI.
+
+Scalable structure for adding more products later.
