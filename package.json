@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "NODE_ENV=development tsx server/index.ts",
-    "build": "npm install --no-audit --no-fund && cd client && npm install && npm run build && cd .. && tsx script/build.ts",
+    "build": "cd client && npm run build && cd .. && tsx script/build.ts",
     "start": "NODE_ENV=production node dist/index.cjs",
     "check": "tsc",
     "db:push": "drizzle-kit push"
@@ -77,3 +77,4 @@
     "zod-validation-error": "^3.4.0"
   }
 }
+
